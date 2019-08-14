@@ -27,8 +27,8 @@ class Litextension_Magento_To_Prestashop extends Module
 
         parent::__construct();
 
-        $this->displayName = $this->l(ucfirst(SOURCE_CART) . ' To Prestashop');
-        $this->description = $this->l('Migrate data from ' .ucfirst(SOURCE_CART). ' to Prestashop');
+        $this->displayName = $this->l('Magento To Prestashop');
+        $this->description = $this->l('Migrate data from Magento to Prestashop');
 
     }
 

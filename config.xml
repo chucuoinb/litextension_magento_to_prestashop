@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <module>
-    <name>litextension</name>
+    <name>litextension_magento_to_prestashop</name>
     <displayName><![CDATA[Magento To Prestashop]]></displayName>
     <version><![CDATA[1.0.0]]></version>
     <description><![CDATA[Migrate data from Magento to Prestashop]]></description>
